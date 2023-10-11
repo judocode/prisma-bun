@@ -9,7 +9,7 @@
     "typescript": "5.2.2"
   },
   "dependencies": {
-    "@prisma/client": "5.4.1",
-    "prisma": "5.4.1"
+    "@prisma/client": "5.4.2",
+    "prisma": "5.4.2"
   }
 }
