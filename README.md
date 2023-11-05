@@ -3,7 +3,7 @@
 My system specs (all should be latest version as of 2023-10-04, minus macOS version as 14.0 is too new for my liking and knowledge of history):
 
 - MacBook Pro v13.6 14in 2021 M1 Pro
-- Bun v1.04
+- Bun v1.0.9
 - Docker v24.0.6, build ed223bc
 - Prisma v5.4.1
 - Typescript v5.2.2

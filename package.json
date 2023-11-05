@@ -2,6 +2,9 @@
   "name": "prisma-bun",
   "module": "index.ts",
   "type": "module",
+  "scripts": {
+    "prisma:generate": "prisma generate"
+  },
   "devDependencies": {
     "bun-types": "latest"
   },
